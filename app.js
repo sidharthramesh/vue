@@ -42,6 +42,5 @@ var registration = new Vue({
             .then(console.log)
             .catch(console.log)
         }
-
     }
 })
